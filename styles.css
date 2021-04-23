@@ -6,11 +6,11 @@
 body {
     margin: 0px;
     font-family: 'Montserrat', sans-serif;
-    background-color: #637074;
 }
 
 header, section {
     padding: 20px;
+    background-color: #637074;
 }
 p, li {
     line-height: 1.5em;
