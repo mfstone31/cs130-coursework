@@ -6,12 +6,13 @@
 body {
     margin: 0px;
     font-family: 'Montserrat', sans-serif;
-    background-color: aquamarine;
+    background-color: black;
 }
 
 header, section {
-    padding: 20px;
+    padding: 10px;
 }
+
 p, li {
     line-height: 1.5em;
 }
