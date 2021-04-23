@@ -5,17 +5,13 @@
 
 body {
     margin: 0px;
-    font-family: Arial, sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 header, section {
     padding: 20px;
 }
 p, li {
     line-height: 1.5em;
-}
-
-h1{
-    font-family: 'Montserrat', sans-serif;
 }
 
 #inspiration {
