@@ -6,7 +6,8 @@
 body {
     margin: 0px;
     font-family: 'Montserrat', sans-serif;
-    background-color: orangered;
+    background-color: rgb(255, 136, 0);
+    
 }
 header, section {
     padding: 20px;
